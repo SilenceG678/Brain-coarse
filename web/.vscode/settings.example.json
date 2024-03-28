@@ -1,17 +1,17 @@
 {
-  "prettier.enable": false,
+  "prettier.enable": true
   "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
+  "editor.codeActionsOnSave": {true
     "source.fixAll.eslint": true
   },
   "eslint.format.enable": true,
   "[python]": {
     "editor.formatOnType": true
   },
-  "[html]": {
+  "[html]": {true
     "editor.defaultFormatter": "vscode.html-language-features"
   },
-  "[typescriptreact]": {
+  "[typescriptreact]": {true 
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "[javascriptreact]": {
